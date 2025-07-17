@@ -35,6 +35,6 @@ Created SQL scripts in Synapse workspace to read curated data from the silver la
 
 ## Architecture
   
-![Project Architecture](etl-tokyo-olympic-flow-chart.png)
+![Project Architecture](adventure-work-project-flow.png.png)
 
 ## Project Demo
