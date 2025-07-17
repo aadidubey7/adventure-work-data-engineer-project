@@ -1,0 +1,52 @@
+[
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Calendar.csv",
+        "param_folder_name" : "AdventureWorks_Calendar",
+        "param_file_name" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Customers.csv",
+        "param_folder_name" : "AdventureWorks_Customers",
+        "param_file_name" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Product_Categories.csv",
+        "param_folder_name" : "AdventureWorks_Product_Categories",
+        "param_file_name" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Product_Subcategories.csv",
+        "param_folder_name" : "Product_Subcategories",
+        "param_file_name" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Products.csv",
+        "param_folder_name" : "AdventureWorks_Products",
+        "param_file_name" : "AdventureWorks_Products.csv"
+    },
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Returns.csv",
+        "param_folder_name" : "AdventureWorks_Returns",
+        "param_file_name":"AdventureWorks_Returns.csv"
+    },
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Sales_2015.csv",
+        "param_folder_name" : "AdventureWorks_Sales_2015",
+        "param_file_name" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Sales_2016.csv",
+        "param_folder_name" : "AdventureWorks_Sales_2016",
+        "param_file_name" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Sales_2017.csv",
+        "param_folder_name" : "AdventureWorks_Sales_2017",
+        "param_file_name" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "param_relative_path" : "adventure-work-data-engineer-project/refs/heads/main/dataset/AdventureWorks_Territories.csv",
+        "param_folder_name" : "AdventureWorks_Territories",
+        "param_file_name" : "AdventureWorks_Territories.csv"
+    }
+]
